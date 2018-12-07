@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pizen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ianturner.org
+  * I am pizen (https://keybase.io/pizen) on keybase.
+  * I have a public key ASA4ldTOnqqBStSK80zfpYwHLEHqjjAmiN5LYuCWh9CjQAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101cf7f0832a28ad36bcb3143399e2a1ec3fb5e8a14740c899c76b3f0627b8090160a",
+      "host": "keybase.io",
+      "kid": "01203895d4ce9eaa814ad48af34cdfa58c072c41ea8e302688de4b62e09687d0a3400a",
+      "uid": "31584b95b9c497554b0ac80967bf7800",
+      "username": "pizen"
+    },
+    "merkle_root": {
+      "ctime": 1544201765,
+      "hash": "b978ef8a262140c719cb1ec9d93854fc53aba6e50be391dbf9017c8438db9aacede0b12477eb358532a96e8923f9f40f6047b0d089087661fdfacf8240b8094c",
+      "hash_meta": "703bf5793c62918c233c25741b587900c08d3bad6243d76d4aecba9b7d90a6de",
+      "seqno": 4072928
+    },
+    "service": {
+      "entropy": "qubftKQpf8X1mbqpsmovijA8",
+      "hostname": "ianturner.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.11.0"
+  },
+  "ctime": 1544201794,
+  "expire_in": 504576000,
+  "prev": "81cf9c1d0b061dd8d1cfc6ab0342e8dc12d1ff9c01e5c6687f76a10dc5e3d693",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOJXUzp6qgUrUivNM36WMByxB6o4wJojeS2LglofQo0AKp3BheWxvYWTESpcCGcQggc+cHQsGHdjRz8arA0Lo3BLR/5wB5cZof3ahDcXj1pPEIMiYihd2/BwMkE9/bRRd9Wl2qqo1h1upA+OZems/eIIEAgHCo3NpZ8RAcGTLeTwRsh2VMwJzRBQ2NeE0AL1ndHdDTtEeMnyRisCH8Y7N9GwtTBk4GYF9CfUNAQUjpDMKZy/vtfMDYtiPBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGRUlWBlRQPcz+dN6HpUNXr9k1Lip2BkZWv8c8fmnL0vo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pizen
+
+==================================================================
